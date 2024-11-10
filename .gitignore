@@ -8,3 +8,4 @@ script/startup-jasmine.js
 .nyc_output
 docs
 deploy/api-doc
+package-lock.json
